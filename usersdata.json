@@ -1,0 +1,67 @@
+{
+    "users": [
+      {
+        "appointmentId": 1,
+        "patientName": "sandeep",
+        "patientAge": "24",
+        "disease": "fever",
+        "phNo": "9573133220"
+      },
+      {
+        "appointmentId": 2,
+        "patientName": "hari",
+        "patientAge": "22",
+        "disease": "cold",
+        "phNo": "8142490340"
+      },
+      {
+        "appointmentId": 3,
+        "patientName": "satya",
+        "patientAge": "23",
+        "disease": "bodypain",
+        "phNo": "9879438231"
+      }
+    ],
+  
+    "appointments": [
+      {
+        "AppointmentId": 1,
+        "PatientName": "hari",
+        "PatientAge": "55",
+        "Disease": "fever",
+        "PhNo": "55555",
+        "Username": "hari",
+        "Action": "pending"
+      },
+      {
+        "AppointmentId": 2,
+        "PatientName": "bhaskar",
+        "PatientAge": "55",
+        "Disease": "fever",
+        "PhNo": "55555",
+        "Username": "hari",
+        "Action": "pending"
+      },
+  
+      {
+        "AppointmentId": 3,
+        "PatientName": "sandep",
+        "PatientAge": "55",
+        "Disease": "fever",
+        "PhNo": "55555",
+        "Username": "hari",
+        "Action": "pending"
+      }
+    ],
+    "viewstatus":[{
+          "appointmentId": 1,
+          "patientName": "sandeep",
+          "doctorName": "55",
+          "disease": "fever",
+          "drPhNo": "55555",
+          "app_Date":"14-05-2022",
+          "app_Time": "2:30pm",
+          "status": "pending"
+    }]
+  }
+  
