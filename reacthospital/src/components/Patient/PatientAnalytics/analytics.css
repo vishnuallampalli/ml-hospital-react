@@ -1,0 +1,16 @@
+.analytics .card {
+    border-color: antiquewhite;
+    border-radius: 15px;
+    box-shadow: 0 5px 20px rgb(0 0 0 / 10%);
+}
+
+.analytics .card-icon {
+    width:70px;
+    height: 70px;
+}
+
+.analytics .card-content {
+    line-height: 1.5;
+}
+
+

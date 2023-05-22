@@ -1,0 +1,10 @@
+.doc-login .login-left {
+    border-right:1px solid #eee;
+}
+@media (max-width: 600px) {
+    .doc-login .login-left {
+       
+        border-right: 0px;
+        border-bottom:5px solid #eee;
+    }
+}

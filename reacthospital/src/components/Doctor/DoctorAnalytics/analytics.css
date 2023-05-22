@@ -1,0 +1,88 @@
+.analytics .info-box {
+
+    min-height: 100px;
+
+    width: 100%;
+
+    box-shadow: 0 5px 20px rgb(0 0 0 / 10%);
+
+    margin-bottom: 20px;
+
+    padding: 15px;
+
+    border-radius: 10px;
+
+}
+
+
+
+.analytics  .info-box-icon {
+
+    float: left;
+
+    height: 70px;
+
+    width: 70px;
+
+    text-align: center;
+
+    font-size: 30px;
+
+    line-height: 74px;
+
+    background: rgba(255,255,255,1);
+
+    border-radius: 100%;
+
+}
+
+
+
+.analytics  .info-box-icon.push-bottom {
+
+    margin-top: 20px;
+
+}
+.analytics .info-box-content {
+
+    padding: 10px 10px 10px 0;
+
+    margin-left: 90px;
+
+}
+
+
+
+.analytics .info-box-text, .analytics .progress-description {
+
+    display: block;
+
+    font-size: 16px;
+
+    white-space: nowrap;
+
+    overflow: hidden;
+
+    text-overflow: ellipsis;
+
+    font-weight: 400;
+
+}
+
+
+
+.analytics .info-box-number {
+
+    font-weight: 300;
+
+    font-size: 21px;
+
+}
+
+
+
+.analytics .progress-description {
+
+    margin: 0;
+
+}
